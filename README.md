@@ -8,3 +8,7 @@ ShteGlasuvam
 Предлагам да се организира подобна кампания за предсрочните избори в България, която обаче да трае 1 месец и да има бутон "I commit to vote" заедно с offline елементи (пр. гривни, значки "I commit to vote"), които да опражняват същия "social pressure" върху хората, с които най-често заимодействаш offline, лице в лице.
 
 Предстои ми да се свържа с James Fowler в Сан Диего и да го поканя да стане ментор на проекта. 
+
+#resources
+
+https://www.youtube.com/results?search_query=James+Fowler 
