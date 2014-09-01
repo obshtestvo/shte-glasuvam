@@ -1,0 +1,20 @@
+{
+  "name": "I'll Vote",
+  "version": "0.0.1",
+  "authors": [
+    "Borislav Delev"
+  ],
+  "description": "I'll Vote Facebook App",
+  "main": "index.php",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.1.1",
+    "d3": "~3"
+  }
+}
