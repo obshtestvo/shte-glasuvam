@@ -4,7 +4,8 @@
 // define('URL', 'http://localhost/glasuvam/');
 // define('LOCATION', '/var/www/glasuvam/');
 
-define ('URL', realpath(dirname(__FILE__)));
+
+define ('URL', "http://" . $_SERVER['HTTP_HOST'].trim($_SERVER['PHP_SELF'], "index.php"));
 define ('LOCATION', realpath(dirname(__FILE__)));
 define('LIBS', 'libs/');
 

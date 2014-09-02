@@ -1,1 +1,1 @@
-<?php include LOCATION . 'views/home.php';  ?>
+<?php include LOCATION . "/views/home.php";  ?>
